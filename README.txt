@@ -2,6 +2,8 @@ Timothy Queva
 CS3130 Lab5
 April 4, 2021
 
+(PROGRAM NOT COMPLETED. SSL needs work)
+
 Description: This program is a client-server program that allows a client to run
 program remotely.
 
